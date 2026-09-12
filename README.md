@@ -4,7 +4,7 @@ A zero-backend semantic search engine designed for unstructured, code-mixed (Hin
 
 ## 🚀 Live Demo & Project Links
 - **Live Deployed App:** https://group-chat-search-ap-7u0w.bolt.host
-- **Demo Video:** [PASTE_YOUR_LOOM_OR_DRIVE_VIDEO_LINK_HERE]
+- **Demo Video:** (https://drive.google.com/file/d/1kldyuGotMd5-JySeQZqaCeQ8FMkZu1xJ/view?usp=sharing)]
 
 ---
 
